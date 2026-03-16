@@ -34,6 +34,11 @@ A comprehensive course covering the fundamentals and advanced topics in Deep Lea
   - Transformers
   - Natural language processing applications
 
+## Evaluation
+
+- **Mid Exam**: 40%
+- **Final Exam**: 60%
+
 ## Textbooks
 
 - [Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning](https://www.deeplearningbook.org/)
@@ -54,7 +59,6 @@ A comprehensive course covering the fundamentals and advanced topics in Deep Lea
 
 ```
 ├── notebooks/           # Jupyter notebooks for each topic
-├── assignments/         # Assignment templates and solutions
 ├── projects/           # Project guidelines and examples
 └── resources/          # Additional resources and references
 ```
