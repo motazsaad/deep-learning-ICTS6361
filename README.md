@@ -1,4 +1,4 @@
-# Deep Learning ICTS6361 2024
+# Deep Learning ICTS6361 2026
 
 A comprehensive course covering the fundamentals and advanced topics in Deep Learning.
 
@@ -64,6 +64,10 @@ A comprehensive course covering the fundamentals and advanced topics in Deep Lea
 1. Clone this repository
 2. Install required dependencies: `pip install -r requirements.txt`
 3. Navigate to the notebooks directory to start learning
+
+## Video Lectures
+
+- [Deep Learning ICTS6361 Video Lectures](https://youtube.com/playlist?list=PL39RMbpB79NOmRg7j6eIJ_nZg8B4avBCP) - Comprehensive video tutorials covering all course modules
 
 ## Prerequisites
 
