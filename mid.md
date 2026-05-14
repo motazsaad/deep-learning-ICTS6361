@@ -20,13 +20,6 @@
 - Learning rate, batch size
 - Simple tuning strategies
 
-**Practical ML**
-- Train/Dev/Test Sets
-- Proper data splitting
-- Basic error analysis
-- ML Strategy
-- When to collect more data
-- Human-level performance comparison
 
 ## Course Materials Mapping
 
@@ -65,15 +58,4 @@
 - 06_Improving_Deep_Neural_Networks_Part2.pdf
 - 07_Improving_Deep_Neural_Networks_Part3.pdf
 
-### Practical ML
-
-**YouTube Videos:**
-- Deep learning - Lecture 3 - Setting ML Application: https://www.youtube.com/watch?v=nLg-4O2JBFI&list=PL39RMbpB79NOmRg7j6eIJ_nZg8B4avBCP&index=9
-- Depp Learning - Train/Dev/Test datasets - ML Recipe: https://www.youtube.com/watch?v=RrutwAY8eZA&list=PL39RMbpB79NOmRg7j6eIJ_nZg8B4avBCP&index=11
-- Deep Learning | ML strategy: https://www.youtube.com/watch?v=HxPdt5LCca8&list=PL39RMbpB79NOmRg7j6eIJ_nZg8B4avBCP&index=22
-- Deep Learning | Error Analysis - Transfer Learning - Multitask Learning - End-to-end Deep Learning: https://www.youtube.com/watch?v=0TAFCLFUs3U&list=PL39RMbpB79NOmRg7j6eIJ_nZg8B4avBCP&index=23
-
-**Slides:**
-- 08_Structuring_ML_Projects_Part1.pdf
-- 09_Structuring_ML_Projects_Part2.pdf
 
